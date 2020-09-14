@@ -1,0 +1,39 @@
+ div .content{
+	background-color: lightgray;
+	height: 750px;
+	padding-top: 5px;
+}
+
+body{
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar-header{
+	margin-top: 5px;
+}
+
+h4{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#menu{
+	margin-bottom: 30px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid blue;
+}
+
+#nav-list a {
+  background-color: lightgray;
+  font-family: 'Martel', sans-serif;
+  text-align: center;
+}
+
+#nav-list a:hover{
+	background: lightblue;
+}
